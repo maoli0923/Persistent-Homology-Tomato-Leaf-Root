@@ -1,7 +1,10 @@
 # Persistent-Homology-Tomato-Leaf-Root
 This is the code to compute persistent homology to measure tomato leaf shape, leaf serrations, and root architecture.
 *************************************************************************************************************
-This package contains all Matlab functions needed to calculate the persistence barcode, bottleneck distance for leaf shape, Euler characteristic curve for serrations, and Betti 1 curve for root architecture used in the analysis of quantitative trait locus (QTL) mapping described in: Mao Li, Margaret H. Frank, Viktoriya Coneva, Washington Mio, Christopher N. Topp, Daniel H. Chitwood, Persistent homology: a tool to universally measure plant morphologies across organs and scales. 
+This package contains all Matlab functions needed to calculate the persistence barcode, bottleneck distance for leaf shape, Euler characteristic curve for serrations, and Betti 1 curve for root architecture used in the analysis of quantitative trait locus (QTL) mapping described in:
+Mao Li, Margaret H. Frank, Viktoriya Coneva, Washington Mio, Daniel H. Chitwood, Christopher N. Topp (2018) The persistent homology mathematical framework provides enhanced genotype-to-phenotype associations for plant morphology, Plant Physiology, doi: https://doi.org/10.1104/pp.18.00104
+
+http://www.plantphysiol.org/content/early/2018/06/04/pp.18.00104
 
 Code is implemented by Mao Li (maoli0923@gmail.com).
 
